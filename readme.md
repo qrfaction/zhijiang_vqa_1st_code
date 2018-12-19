@@ -8,6 +8,8 @@
 <br>
 rcnn特征的那个我就动了generate_tsv.py,主要是存attribute特征和帧下采样
 <br>
+比赛时使用的模型是models.py里的attention_model,有些多余的东西没删掉,用于对比的
+<br>
 <br>
 utils.py里面是一些预处理+特征
 <br>
